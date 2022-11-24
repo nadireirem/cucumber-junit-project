@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Etsy title verification
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 140.406 s <<< FAILURE! - in Etsy title verification
+Etsy title verification.Wooden Spoon search  Time elapsed: 25.569 s  <<< FAILURE!
+java.lang.AssertionError
+
+Etsy title verification."Wooden Spoon" search  Time elapsed: 26.15 s  <<< FAILURE!
+java.lang.AssertionError
+
